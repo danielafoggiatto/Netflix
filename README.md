@@ -1,9 +1,9 @@
 
 # 🎬 Netflix Clone
 
-Este é um projeto pessoal criado como desafio prático para aplicar conhecimentos em **HTML**, **CSS**, **JavaScript**, **jQuery** e **Bootstrap**.
+Este é um projeto pessoal criado como desafio prático para aplicar conhecimentos em **HTML**, **CSS**, **JavaScript** e **jQuery**.
 
-A proposta foi desenvolver uma interface responsiva inspirada na página inicial da Netflix, com foco em estrutura semântica, organização visual e interatividade com carrosséis e efeitos de hover.
+A proposta foi desenvolver uma interface inspirada na página inicial da Netflix, com foco em estrutura semântica, organização visual e responsividade.
 
 🔗 **Acesse o site publicado:**  
 [https://danielafoggiatto.github.io/Netflix](https://danielafoggiatto.github.io/Netflix)
@@ -13,11 +13,10 @@ A proposta foi desenvolver uma interface responsiva inspirada na página inicial
 ## ✨ Funcionalidades
 
 - Página principal com layout inspirado na Netflix
-- Carrossel de filmes com jQuery
-- Design responsivo com **Flexbox** e **Bootstrap**
+- Design responsivo com **Flexbox**
 - Menu superior fixo com links simulados
 - Rodapé estilizado com links fictícios
-- Animações com hover e transições suaves
+
 
 ---
 
@@ -27,7 +26,6 @@ A proposta foi desenvolver uma interface responsiva inspirada na página inicial
 - CSS3
 - JavaScript (básico)
 - jQuery
-- Bootstrap
 
 ---
 
@@ -49,7 +47,7 @@ A proposta foi desenvolver uma interface responsiva inspirada na página inicial
 
 Durante o desenvolvimento, pratiquei:
 - Organização de componentes com HTML semântico
-- Criação de responsividade com Bootstrap e Flexbox
+- Criação de responsividade com Flexbox
 - Manipulação de elementos com jQuery
 - Publicação com GitHub Pages
 
